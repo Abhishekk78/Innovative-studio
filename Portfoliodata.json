@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "Title": "E-commerce Website",
+    "category": "Web Development",
+    "thumbnail": "/Assets/Thumbnails/webdevelopment.jpg"
+  },
+  {
+    "id": 2,
+    "Title": "Social Media App",
+    "category": "Mobile App",
+    "thumbnail": "/Assets/Thumbnails/Mobile App.jpg"
+  },
+  {
+    "id": 3,
+    "Title": "Business Analayz App",
+    "category": "Digital Marketing",
+    "thumbnail": "/Assets/Thumbnails/Digital marketing.jpg"
+  },
+  {
+    "id": 4,
+    "Title": "Figma",
+    "category": "Grapics Desing",
+    "thumbnail": "/Assets/Thumbnails/Graphics design.jpg"
+  },
+  {
+    "id": 5,
+    "Title": "Photo Shop App",
+    "category": "Software System",
+    "thumbnail": "/Assets/Thumbnails/software.jpg"
+  },
+  {
+    "id": 6,
+    "Title": "Robot Macanizm",
+    "category": "AI/Ml",
+    "thumbnail": "/Assets/Thumbnails/Aiml.jpg"
+  },
+  {
+    "id": 7,
+    "Title": "Travel Blog",
+    "category": "Youtube Blog",
+    "thumbnail": "/Assets/Thumbnails/Blog.jpg"
+  },
+  {
+    "id": 8,
+    "Title": "Portfolio Website",
+    "category": "Web Development",
+    "thumbnail": "/Assets/Thumbnails/webdevelopment.jpg"
+  },
+  {
+    "id": 9,
+    "Title": "Stock Market",
+    "category": "Digital Marketing",
+    "thumbnail": "/Assets/Thumbnails/Digital marketing.jpg"
+  },
+  {
+    "id": 10,
+    "Title": "Ms Offilce",
+    "category": "Software System",
+    "thumbnail": "/Assets/Thumbnails/software.jpg"
+  },
+  {
+    "id": 11,
+    "Title": "Social Media App",
+    "category": "Mobile App",
+    "thumbnail": "/Assets/Thumbnails/Mobile App.jpg"
+  },
+  {
+    "id": 12,
+    "Title": "Robot Macanizm",
+    "category": "AI/Ml",
+    "thumbnail": "/Assets/Thumbnails/Aiml.jpg"
+  }
+]

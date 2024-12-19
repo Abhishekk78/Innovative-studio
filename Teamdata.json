@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Abhishek Pandya",
+    "role": "Web Developer",
+    "email": "abhishekpandya410@gmail.com",
+    "phone": "+91 7016340185",
+    "department": "Reactjs Devloper"
+  },
+  {
+    "id": 2,
+    "name": "Alice Johnson",
+    "role": "Software Engineer",
+    "email": "alicejohnson3@gmail.com",
+    "phone": "+91 9925456950",
+    "department": "Development"
+  },
+  {
+    "id": 3,
+    "name": "Bob Smith",
+    "role": "UI/UX Designer",
+    "email": "bobsmith40@gmail.com",
+    "phone": "+1 9581426564",
+    "department": "Design"
+  },
+  {
+    "id": 4,
+    "name": "Charlie Brown",
+    "role": "Project Manager",
+    "email": "charliebrown10@gmail.com",
+    "phone": "+1 9531628591",
+    "department": "Management"
+  },
+  {
+    "id": 5,
+    "name": "Devon conway",
+    "role": "AI/Ml Developer",
+    "email": "devonconvey52@gmail.com",
+    "phone": "+13 9135678798",
+    "department": "Developer"
+  },
+  {
+    "id": 6,
+    "name": "Michel Stark",
+    "role": "IT Head",
+    "email": "michelstark72@gmail.com",
+    "phone": "+14 8339688953",
+    "department": "IT Sales"
+  },
+  {
+    "id": 7,
+    "name": "Diana Prince",
+    "role": "Quality Analyst",
+    "email": "dianaprince89@gmail.com",
+    "phone": "+143 8230698719",
+    "department": "Software Testing"
+  },
+  {
+    "id": 8,
+    "name": "Ethan Hunt",
+    "role": "Backend Developer",
+    "email": "ethanhut90@gmail.com",
+    "phone": "+223 8039697737",
+    "department": "Backend Developer"
+  },
+
+  {
+    "id": 9,
+    "name": "Devid Miler",
+    "role": "Frontend Developer",
+    "email": "devidmiler39@gmail.com",
+    "phone": "+146 8335697231",
+    "department": "Fronted Web Develoepr "
+  },
+  {
+    "id": 10,
+    "name": "Hannah Davis",
+    "role": "Scrum Master",
+    "email": "hannahdevis19@gmail.com",
+    "phone": "+14 8736692720",
+    "department": "Software Testing"
+  },
+  {
+    "id": 11,
+    "name": "Fiona clark",
+    "role": "Reactjs Devloper",
+    "email": "fionaclark59@gmail.com",
+    "phone": "+29 823069871",
+    "department": "Business Analyst"
+  }
+]
